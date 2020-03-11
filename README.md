@@ -15,4 +15,6 @@
     </td>
        </table>
    https://i.redd.it/08cnm4uw5tl41.jpg "Pictures are gross to put in here"
-[widow god(https://i.redd.it/08cnm4uw5tl41.jpg)](http://www.youtube.com/watch?v=3qSUyhxSdMU)
+   
+<a href="http://www.youtube.com/watch?watch?v=3qSUyhxSdMU
+" target="_blank"><img src="https://i.redd.it/08cnm4uw5tl41.jpg" 
