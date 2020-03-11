@@ -1,6 +1,6 @@
 <table style="width:100%">
   <tr>
-    <th><h1>Memes are amazing</h1><th>
+    <th><h1 style="color:pink;">Memes are amazing</h1><th>
   </tr>
   <td>
   <p>Memes are amazing and make me happy</p>
