@@ -14,4 +14,4 @@
 <a href= "https://www.reddit.com/">Reddit.com </a>
     </td>
        </table>
-   [logo]: https://i.redd.it/08cnm4uw5tl41.jpg "Logo Title Text 2"
+   https://i.redd.it/08cnm4uw5tl41.jpg "Pictures are gross to put in here"
