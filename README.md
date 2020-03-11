@@ -1,6 +1,9 @@
+<table style="width:100%">
 <tr>
 <th><h1>Memes are amazing</h1><th>
   </tr>
+  </table>
+  
   <p>Memes are amazing and make me happy</p>
 <h2>Reasons make me happy because.</p>
   <ul>
