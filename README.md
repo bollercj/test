@@ -1,9 +1,8 @@
 <table style="width:100%">
-<tr>
-<th><h1>Memes are amazing</h1><th>
+  <tr>
+    <th><h1>Memes are amazing</h1><th>
   </tr>
-  </table>
-  
+  <td>
   <p>Memes are amazing and make me happy</p>
 <h2>Reasons make me happy because.</p>
   <ul>
@@ -13,6 +12,8 @@
   </ul>
 <h3>Here is amazing source of memes</h3>
 <a href= "https://www.reddit.com/">Reddit.com </a>
+    </td>
+       </table>
 <table style="width:100%">
   <tr>
     <th>Firstname</th>
