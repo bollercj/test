@@ -16,5 +16,4 @@
        </table>
    https://i.redd.it/08cnm4uw5tl41.jpg "Pictures are gross to put in here"
    
-<a href="http://www.youtube.com/watch?watch?v=3qSUyhxSdMU
-" target="_blank"><img src="https://i.redd.it/08cnm4uw5tl41.jpg"> </a>
+<a href="https://www.youtube.com/watch?v=3qSUyhxSdMU"><img src="https://i.redd.it/08cnm4uw5tl41.jpg"> </a>
