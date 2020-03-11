@@ -1,5 +1,5 @@
-<h1>|Memes| are| amazing| </h1>
-<h1>|_____|____|________|</h1>
+|Memes| are| amazing|
+|_____|____|________|
   <p>Memes are amazing and make me happy</p>
 <h2>Reasons make me happy because.</p>
   <ul>
