@@ -8,3 +8,4 @@
   </ul>
 <h3>Here is amazing source of memes</h3>
 <a href= "https://www.reddit.com/">Reddit.com </a>
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
