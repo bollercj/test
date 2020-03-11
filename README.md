@@ -1,9 +1,9 @@
 <table style="width:100%">
   <tr>
-    <th><h1 style="color:red;">Memes are amazing</h1><th>
+    <th><h1><b>Memes are amazing</b></h1><th>
   </tr>
   <td>
-  <p>Memes are amazing and make me happy</p>
+    <p><i>Memes are amazing and make me happy</i></p>
 <h2>Reasons make me happy because.</p>
   <ul>
    <li>**The make me happy**.</li>
